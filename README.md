@@ -58,4 +58,8 @@ cd todo-list-redux
 
 ### 2 . Install the npm
 ```bash
+ cd todo-list-redux
+ npm install
+```
+### 3  
  
