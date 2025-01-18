@@ -61,5 +61,5 @@ cd todo-list-redux
  cd todo-list-redux
  npm install
 ```
-### 3  
+### 3  Adding Redux toolkit
  
