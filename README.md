@@ -54,3 +54,8 @@ A simple and efficient To-Do List application built with React and Redux Toolkit
 ```bash
 git clone https://github.com/kaushlesh79/TODO-LIST---THE-CLIMB
 cd todo-list-redux
+```
+
+### 2 . Install the npm
+```bash
+ 
